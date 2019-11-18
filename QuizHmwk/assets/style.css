@@ -1,0 +1,93 @@
+body {
+
+    background-image: url("https://i.pinimg.com/originals/9b/1f/33/9b1f33e11976066af409585cbbd0d5a3.jpg");
+    background-repeat: none;
+    background-size: cover;
+
+}
+li {
+    display: list-item;
+    list-style-position: inside;
+  }
+#title {
+    align-content: center;
+    margin-top: 1em;
+    display: inline-block;
+    font-size: 26pt;
+    background-color: cornflowerblue;
+    outline: solid #176428;
+    outline-width: 0.2em;
+    margin-bottom: 4em;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.stupid {
+
+    text-align: center;
+
+}
+
+#startBtn {
+
+    display: inline-block;
+
+}
+
+#table {
+    
+    display: inline-block;
+    width: 50%;
+}
+
+.btnStyle {
+    display:inline-block;
+    padding:0.3em 1.2em;
+    margin:0 0.3em 0.3em 0;
+    border-radius:2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-size: 20pt;
+    font-family:'Roboto',sans-serif;
+    font-weight: bold;
+    color:rgb(8, 8, 8);
+    background-color:#176428;
+    text-align:center;
+    transition: all 0.2s;
+}
+
+.btnStyle:hover{
+
+    background:#4095c6;
+
+}
+
+button {
+
+    visibility: hidden;
+
+}
+
+#lblQuestion {
+
+    color:rgb(8, 8, 8);
+    background-color:#176428;
+    font-size: 20pt;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+
+}
+
+ol {
+
+    background-color: white;
+    width: 30%;
+
+}
+
+
